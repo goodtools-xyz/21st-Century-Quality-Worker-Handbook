@@ -2,189 +2,59 @@
 
 VDA（Verband der Automobilindustrie，德国汽车工业协会）是德国汽车工业的全国性组织，发布了一系列汽车行业质量管理和过程控制的标准手册。这些手册在欧洲汽车行业广泛使用，并与AIAG标准一起成为全球汽车质量管理的重要参考。
 
-## 完整VDA手册清单
+- **vda-publications-english：** [vda-publications-english](https://webshop.vda.de/qmc/en/vda-publications-english)
 
-### VDA Volume 1 - 汽车工业基础（Fundamentals of the Automotive Industry）
+VDA标准汇总表
+产品生命周期内使用的VDA标准介绍概览
+- **VDA标准汇总表：** [VDA标准汇总表](https://webshop.vda.de/qmc/en/vda-publications-english)
+https://www.vdachina.com.cn/cn/STANDARDS/Free%20Download
 
-**最新版本：** 第1版（2018）
-**商店链接：** [VDA Band 1](https://www.vda-verlag.de/en/publications/vda-band-1-automotive-industry-fundamentals.html)
+## VDA标准红皮书矩阵表
 
-该手册介绍了汽车工业的基本概念、组织结构和业务流程，为理解汽车行业质量管理提供基础。
+| 编号 | 主题 | 语言 | 版本及德国发布时间 |
+|------|------|------|--------------------|
+| 1 | VDA 1 形成文件的信息和存档 - 产品生命周期内文件的控制和存档指南 - 特别对文件的分类 | 中/英 | 第四次完全修订版 2018年9月 |
+| 2 | VDA 2 生产过程产品批准（PPA） | 中/英 | 第三修订版，2020 年 3 月 |
+| 3.1 | VDA 3.1 Reliability for Car Manufacturers and Suppliers – Reliability Management | 英 | 第三版，2000年 |
+| 3.2 | VDA 3.2 Reliability Assurance of Car Manufacturers and Suppliers | 英 | 第四次完全修订版，2016年9月 英文版发布于2018年6月 |
+| 3.3 | VDA 3.3 Case Studies in the Reliability control loop | 英 | 第一版，2018年6月 英文版发布于2018年12月 |
+| 4 | VDA 4 第1节：总则方法综述、基本辅助工具、开发过程<br>第2节：风险分析<br>故障树分析- FTA、失效模式及影响分析（FMEA）、SWOT 分析（优势-劣势-机会-威胁）<br>第4节：方法<br>面向问题和装配的设计（DFMA）、数字样机（DMU）、实验设计（DoE）、实验方法、制造可行性分析、防错、质量功能展开（QFD）、创新解决问题理论、经济的过程链和过程控制、8D方法、5个为什么方法、预防性质量管理方法的选择<br>第11节：过程模型<br>第六西格玛设计（DFSS），工业公差过程 | 中/英 | 第三次全面修订和扩展版2021年3月 |
+| 5 | VDA 5 测量检验过程 | 中/英 | 第三次修订版2021年7月 |
+| 5 | VDA 5 实践手册 | 中/英 | 第一版，2022年9月 |
+| 5.1 | VDA 5.1 Traceable Inline Metrology in Car Body Manufacture | 中/英 | 计划 2024年第一季度 |
+| 5.2 | VDA 5.2 Capability of Measurement Processes For the Torque Inspection on Bolted Joints (revision) | 中/英 | 计划 2024年第三季度 |
+| 5.3 | VDA 5.3 Capability of Inspection Processes Optical Sensors/Image Processing | 中/英 | 计划2024年第二季度 |
+| 6 | VDA 6 | 中/英 | 第六修订版，2016年9月 英文版发布于2017年9月 |
+| 6.1 | VDA 6.1 质量管理体系审核 | 中/英 | 第五版，2016年12月 |
+| 6.2 | VDA 6.2 质量管理体系审核-服务-对汽车业服务组织的特殊要求 | 中/英 | 第三版，2017年6月 |
+| 6.3 | VDA 6.3 过程审核 | 中/英 | 第四修订版，2023年1月 |
+| 6.4 | VDA 6.4 质量管理体系审核-生产设备-汽车工业生产设备生产商的具体要求 | 中/英 | 第三版，2017年6月 |
+| 6.5 | VDA 6.5 产品审核 | 中/英 | 第三修订版，2020年3月 |
+| 6.7 | VDA 6.7 过程审核：生产设备 | 中/英 | 第三修订版，2020年5月 |
+| 6.8 | VDA 6.8 物流审核 | 英 | 第一版，2024 |
+| 9 | VDA 9 排放控制燃料消耗-乘用车和轻型商用车的生产一致性测试 | 中/英 | 第四完全修订版 2020年3月 |
+| 16 | VDA 16 配件和功能部件的装饰面-汽车外饰和内饰区域 | 中/英 | 第三版，2016年 |
+| 19 | VDA 19.1 技术清洁度检测-功能相关的汽车零部件颗粒污染 | 中/英 | 第二修订版，2015年3月 中文最新版：2021年1月重新核对 |
+| 19 | VDA 19.2 组装中的技术清洁度-环境、物流、人员和组装设备 | 中/英 | 第一版，2010年 |
+| Agile Collaboration | 敏捷协作 | 中/英 | 第一版，2021年1月 |
+| BOS | BOS – 汽车行业电力过载 | 中/英 | 第一版，2020年1月 |
+| FMEA | AIAG & VDA FMEA 手册 | 中/英 | 第一版，2019年 |
+| LL | 经验教训 | 中/英 | 第一版，2020年11月 |
+| PCS | Product compliance Volume 1: Product Compliance System | 中/英 | 第一版，2023年11月 |
+| PI | 产品诚信（PI）组织产品安全与符合性行动建议，2018年11月第1版（包含召回管理） | 中/英 | 2020年9月第1.1版本（中国版本） |
+| 8D | 8D问题解决法 | 中/英 | 第一版，2018年11月 |
 
-### VDA Volume 2 - 批量生产零组件质量保证（Quality Assurance of Series Production Components）
+## VDA蓝金书矩阵表
 
-**最新版本：** 第2版（2021）
-**商店链接：** [VDA Band 2](https://www.vda-verlag.de/en/publications/vda-band-2-quality-assurance-of-series-production-components.html)
+| 序号 | 主题 | 语言 | 版本及德国发布时间 | 备注 |
+|------|------|------|--------------------|------|
+| - | 通用特殊特性(SC)的过程描述 | 中/英 | 第二次修订版，2020年4月 | - |
+| - | 顾客特定要求（CSR） | 中/英 | 第二次修订版，2018年11月 | - |
+| - | 使用现场失效分析和审核标准 | 中/英 | 第二版，2018年12月 | - |
+| - | 在车辆中应用消费电子（CE）元器件时可行的场景与风险分析指南 | 中/英 | 第二修订版，2022年9月 | - |
+| - | 供应链中的联合质量管理 产品的生产 新零件的成熟度保障（MLA） | 中/英 | 第三次修订版，2022年6月 | - |
+| - | 供应链中的联合质量管理 产品的生产和交付稳健的生产过程（RPP） | 中/英 | 第一版，2007年11月 更新版，2019年11月 | - |
+| - | Specification Standard Structure | 中/英 | - | - |
+| - | Automation VDA Component Requirement – Specificaiton Standard Structure | 英 | - | - |
+| - | 处理客户投诉的标准化流程 | 中/英 | 第2版（修订版），2020年12月 | - |
 
-该手册规定了汽车行业批量生产零组件的质量保证要求，包括：
-- 供应商质量体系要求
-- 产品设计和开发的质量保证
-- 生产过程的质量保证
-- 检验和测试要求
-- 不合格品的处理
-
-### VDA Volume 4 - 生产设备和工具的质量保证（Quality Assurance of Production Equipment and Tools）
-
-**最新版本：** 第2版（2019）
-**商店链接：** [VDA Band 4](https://www.vda-verlag.de/en/publications/vda-band-4-quality-assurance-of-production-equipment-and-tools.html)
-
-该手册规定了生产设备和工具的质量保证要求，包括：
-- 设备和工具的设计和开发
-- 设备和工具的制造和验收
-- 设备和工具的维护和保养
-- 设备和工具的能力验证
-
-### VDA Volume 5 - 物流质量保证（Quality Assurance in Logistics）
-
-**最新版本：** 第3版（2020）
-**商店链接：** [VDA Band 5](https://www.vda-verlag.de/en/publications/vda-band-5-quality-assurance-in-logistics.html)
-
-该手册提供了物流过程的质量保证方法和要求，包括：
-- 物流过程的风险评估
-- 物流质量控制措施
-- 物流过程的审核方法
-
-### VDA Volume 6.1 - 质量管理体系审核（QMS Audit）
-
-**最新版本：** 第5版（2022）
-**商店链接：** [VDA Band 6.1](https://www.vda-verlag.de/en/publications/vda-band-6-1-audit-of-the-quality-management-system.html)
-
-该手册提供了基于ISO 9001和IATF 16949的质量管理体系审核方法和要求，包括：
-- 质量管理体系审核的基本概念和原则
-- 审核的策划、实施、报告和跟踪
-- 审核员的资质要求
-- 审核检查表和评分方法
-
-### VDA Volume 6.2 - 过程审核（Process Audit）
-
-**最新版本：** 第4版（2022）
-**商店链接：** [VDA Band 6.2](https://www.vda-verlag.de/en/publications/vda-band-6-2-process-audit.html)
-
-该手册提供了对生产过程和服务过程进行审核的方法和要求，包括：
-- 过程审核的基本概念和原则
-- 过程审核的四个阶段（策划、实施、报告、跟踪）
-- 过程审核的提问表（包含5个过程要素）
-- 审核结果的评分和分析方法
-
-### VDA Volume 6.3 - 产品审核（Product Audit）
-
-**最新版本：** 第3版（2021）
-**商店链接：** [VDA Band 6.3](https://www.vda-verlag.de/en/publications/vda-band-6-3-product-audit.html)
-
-该手册提供了对最终产品或服务进行审核的方法和要求，包括：
-- 产品审核的基本概念和原则
-- 产品审核的策划、实施、报告和跟踪
-- 产品审核的抽样方法
-- 审核结果的分析
-
-### VDA Volume 6.4 - 服务审核（Service Audit）
-
-**最新版本：** 第3版（2020）
-**商店链接：** [VDA Band 6.4](https://www.vda-verlag.de/en/publications/vda-band-6-4-service-audit.html)
-
-该手册提供了对服务过程和服务质量进行审核的方法和要求，包括：
-- 服务审核的基本概念和原则
-- 服务审核的策划、实施、报告和跟踪
-- 服务过程的审核要点
-- 审核结果的分析和改进措施
-
-### VDA Volume 7.1 - 技术产品文件（Technical Product Documentation）
-
-**最新版本：** 第2版（2018）
-**商店链接：** [VDA Band 7.1](https://www.vda-verlag.de/en/publications/vda-band-7-1-technical-product-documentation.html)
-
-该手册规定了汽车行业技术产品文件的编制要求和规范。
-
-### VDA Volume 8.1 - 汽车维修站质量保证（Quality Assurance in Motor Vehicle Workshops）
-
-**最新版本：** 第4版（2020）
-**商店链接：** [VDA Band 8.1](https://www.vda-verlag.de/en/publications/vda-band-8-1-quality-assurance-in-motor-vehicle-workshops.html)
-
-该手册提供了汽车维修站质量保证的方法和要求。
-
-### VDA Volume 9 - 售后服务管理（After-Sales Service Management）
-
-**最新版本：** 第2版（2019）
-**商店链接：** [VDA Band 9](https://www.vda-verlag.de/en/publications/vda-band-9-after-sales-service-management.html)
-
-该手册规定了汽车行业售后服务管理的要求和最佳实践。
-
-### VDA Volume 10 - 销售和服务中的客户满意度（Customer Satisfaction in Sales and Service）
-
-**最新版本：** 第3版（2021）
-**商店链接：** [VDA Band 10](https://www.vda-verlag.de/en/publications/vda-band-10-customer-satisfaction-in-sales-and-service.html)
-
-该手册提供了测量和提高销售及服务过程中客户满意度的方法。
-
-### VDA Volume 13 - 项目管理（Project Management）
-
-**最新版本：** 第1版（2020）
-**商店链接：** [VDA Band 13](https://www.vda-verlag.de/en/publications/vda-band-13-project-management.html)
-
-该手册提供了汽车行业项目管理的方法和最佳实践。
-
-### VDA Volume 14 - 产品安全（Product Safety）
-
-**最新版本：** 第1版（2020）
-**商店链接：** [VDA Band 14](https://www.vda-verlag.de/en/publications/vda-band-14-product-safety.html)
-
-该手册提供了汽车产品安全管理的方法和要求。
-
-### VDA Volume 16 - 功能安全（Functional Safety）
-
-**最新版本：** 第1版（2021）
-**商店链接：** [VDA Band 16](https://www.vda-verlag.de/en/publications/vda-band-16-functional-safety.html)
-
-该手册基于ISO 26262标准，提供了汽车功能安全管理的实施指南。
-
-### VDA Volume 19 - 网络安全（Cybersecurity）
-
-**最新版本：** 第2版（2023）
-**商店链接：** [VDA Band 19](https://www.vda-verlag.de/en/publications/vda-band-19-cybersecurity.html)
-
-该手册提供了汽车行业网络安全的要求和指南，包括：
-- 汽车网络安全的基本概念和原则
-- 网络安全管理体系的建立
-- 产品开发过程中的网络安全要求
-- 网络安全风险的评估和管理
-
-### VDA Volume 20 - 人工智能在汽车行业的应用（Artificial Intelligence in the Automotive Industry）
-
-**最新版本：** 第1版（2022）
-**商店链接：** [VDA Band 20](https://www.vda-verlag.de/en/publications/vda-band-20-artificial-intelligence-in-the-automotive-industry.html)
-
-该手册提供了汽车行业人工智能应用的框架和指南。
-
-### VDA & AIAG FMEA - 失效模式与影响分析（Failure Mode and Effects Analysis）
-
-**最新版本：** 第1版（2019）
-**商店链接：** [AIAG & VDA FMEA Manual](https://www.vda-verlag.de/en/publications/aiag-vda-fmea-manual.html)
-
-VDA与AIAG联合发布的FMEA手册，提供了失效模式与影响分析的统一方法，包括：
-- DFMEA（设计FMEA）的实施方法
-- PFMEA（过程FMEA）的实施方法
-- 风险评估的新方法（措施优先级AP）
-- 与其他质量工具的集成
-
-## VDA手册的应用
-
-VDA手册在汽车行业中具有广泛的应用：
-- 作为欧洲汽车制造商对供应商的评估标准
-- 指导质量管理体系的建立和改进
-- 提供过程控制和审核的具体方法
-- 支持IATF 16949质量管理体系的实施
-- 促进欧洲汽车供应链内的质量一致性
-
-## 官方资源
-
-- **VDA标准官方页面：** [VDA Standards](https://www.vda.de/en/standards)
-- **VDA出版物购买：** [VDA Shop](https://www.vda-verlag.de/en/publications)
-- **VDA培训和认证：** [VDA QMC Training](https://www.vda-qmc.de/en/training-certification/)
-
-## 与其他标准的关系
-
-VDA手册与以下标准密切相关：
-- **ISO 9001**：质量管理体系要求（VDA Volume 6.1基于ISO 9001）
-- **IATF 16949**：汽车行业质量管理体系标准（VDA手册是IATF 16949的重要参考）
-- **AIAG标准**：美国汽车工业行动集团标准（VDA与AIAG联合发布了FMEA等标准）
-- **ISO/TS 16949**：已被IATF 16949取代的旧版汽车行业标准
