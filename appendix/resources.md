@@ -103,6 +103,9 @@
 - **官方网址**：[https://www.eia.org/](https://www.eia.org/)
 - **简介**：EIA是美国电子行业的行业协会，制定了电子组件、通信系统和信息技术等领域的标准。
 
+### UL（保险商实验室）
+- **官方网址**：[https://www.ul.com/](https://www.ul.com/)
+- **简介**：UL是一家全球领先的安全认证机构，制定了产品安全、性能和可持续性标准，尤其在电子、电器、消防等领域具有广泛影响力，其认证标志被全球消费者和企业认可。
 
 
 ## 软件行业标准和协会
@@ -212,20 +215,19 @@
 ### 3. FMEA分析工具
 
 #### ReliaSoft XFMEA
-- **官方网址**：[https://www.reliasoft.com/products/xfmea](https://www.reliasoft.com/products/xfmea)
-- **简介**：专业的FMEA分析软件，支持设计FMEA(DFMEA)和过程FMEA(PFMEA)，符合AIAG和VDA标准。
 
 #### IQ-RM FMEA
 - **官方网址**：[https://www.iq-rm.com/en/products/iq-fmea/](https://www.iq-rm.com/en/products/iq-fmea/)
 - **简介**：基于云的FMEA管理平台，支持团队协作和FMEA过程自动化。
 
-#### FMEA Pro
-- **官方网址**：[https://www.fmeapro.com/](https://www.fmeapro.com/)
-- **简介**：直观的FMEA软件，提供风险评估、行动跟踪和报告功能。
-
 #### AIAG-VDA FMEA Software
 - **官方网址**：[https://www.aiag.org/store/productdetail.aspx?id=4838](https://www.aiag.org/store/productdetail.aspx?id=4838)
 - **简介**：AIAG官方发布的FMEA软件，符合最新的AIAG-VDA FMEA标准要求。
+
+#### FMEA Master
+- **官方网址**：[https://www.fmeamaster.com/](https://www.fmeamaster.com/)
+- **简介**：专业的FMEA分析工具，支持DFMEA、PFMEA、MFMEA等多种FMEA类型，提供系统化的失效模式分析方法，帮助企业提升产品质量和可靠性。
+
 
 ### 4. SPC(统计过程控制)工具
 
@@ -261,6 +263,10 @@
 
 ### 6. 审核与合规工具
 
+#### VDA Audit Suite
+- **官方网址**：[https://www.vda-qmc.de/en/services/audit-tools/](https://www.vda-qmc.de/en/services/audit-tools/)
+- **简介**：德国汽车工业联合会（VDA）提供的在线评估工具套件，支持VDA 6.3（过程审核）、VDA 6.5（产品审核）和VDA 6.7（设备审核）标准，帮助企业进行规范化的质量审核和评估。
+
 #### AuditBoard
 - **官方网址**：[https://www.auditboard.com/](https://www.auditboard.com/)
 - **简介**：基于云的审计管理平台，支持内部审计、合规管理和风险评估。
@@ -289,10 +295,14 @@
 
 ## 在线学习平台
 
-### Coursera
-- **官方网址**：[https://www.coursera.org/](https://www.coursera.org/)
-- **简介**：提供与质量管理相关的在线课程，包括六西格玛、ISO标准等。
+### VDA官方学习平台
+- **官方网址**：[https://www.vda-qmc.de/en/training/](https://www.vda-qmc.de/en/training/)
+- **简介**：德国汽车工业联合会（VDA）官方提供的在线学习平台，提供VDA系列标准（如VDA 6.3、VDA 6.5、VDA 6.7等）的专业培训课程和认证。
 
-### LinkedIn Learning
-- **官方网址**：[https://www.linkedin.com/learning/](https://www.linkedin.com/learning/)
-- **简介**：提供专业的质量管理和质量工具培训课程。
+### TÜV南德意志集团在线学习平台
+- **官方网址**：[https://www.tuvsud.com/en/services/training/online-training](https://www.tuvsud.com/en/services/training/online-training)
+- **简介**：提供质量管理、汽车行业标准、认证培训等在线课程，包括IATF 16949、VDA标准、功能安全等专业内容。
+
+### TÜV莱茵学习平台
+- **官方网址**：[https://www.tuv.com/en/training/](https://www.tuv.com/en/training/)
+- **简介**：提供质量管理体系、汽车行业标准、环境管理等在线培训课程，支持多种语言学习。
