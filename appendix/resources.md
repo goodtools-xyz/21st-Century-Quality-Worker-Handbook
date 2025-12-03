@@ -52,6 +52,50 @@
 - **官方网址**：[https://www.sas.com/en_us/software/quality-analytics.html](https://www.sas.com/en_us/software/quality-analytics.html)
 - **简介**：企业级质量分析平台，整合了统计分析、预测建模和质量改进功能，适合大型组织使用。
 
+#### Q-DAS
+- **官方网址**：[https://www.q-das.com/en/](https://www.q-das.com/en/)
+- **简介**：德国开发的专业统计分析软件，广泛应用于汽车行业，是博世、大众、宝马等汽车制造商及其供应商推荐使用的统计工具。提供全面的数据分析、报告生成和质量控制功能，符合VDA、AIAG等汽车行业标准。
+
+#### Statgraphics
+- **官方网址**：[https://www.statgraphics.com/](https://www.statgraphics.com/)
+- **简介**：专业的统计分析软件，提供强大的数据可视化和统计建模功能，支持六西格玛、实验设计和质量改进项目。
+
+#### R + Tidyverse
+- **官方网址**：[https://www.r-project.org/](https://www.r-project.org/), [https://www.tidyverse.org/](https://www.tidyverse.org/)
+- **简介**：开源的统计分析环境，配合Tidyverse包集合，提供强大的数据处理、统计分析和可视化功能，广泛应用于学术研究和工业质量分析。
+
+#### Python (SciPy, Pandas, NumPy)
+- **官方网址**：[https://www.python.org/](https://www.python.org/)
+- **简介**：开源的编程语言，配合SciPy、Pandas和NumPy等科学计算库，提供灵活的数据处理和统计分析功能，适合自动化和定制化的质量分析任务。
+
+#### OriginPro
+- **官方网址**：[https://www.originlab.com/originpro](https://www.originlab.com/originpro)
+- **简介**：专业的科学绘图和数据分析软件，提供丰富的统计分析功能，适合工程和科学领域的质量数据处理。
+
+#### Minitab Express
+- **官方网址**：[https://www.minitab.com/en-us/minitab-express/](https://www.minitab.com/en-us/minitab-express/)
+- **简介**：Minitab的简化版本，提供核心的统计分析功能，界面友好，适合初学者和小型项目使用。
+
+#### SigmaXL
+- **官方网址**：[https://www.sigmaxl.com/](https://www.sigmaxl.com/)
+- **简介**：Excel插件式统计分析工具，提供六西格玛、SPC和实验设计等功能，易于集成到现有工作流程中。
+
+#### NCSS
+- **官方网址**：[https://www.ncss.com/](https://www.ncss.com/)
+- **简介**：专业的统计分析和样本量计算软件，提供全面的统计方法和直观的界面，适合质量研究和实验设计。
+
+#### JMP Live
+- **官方网址**：[https://www.jmp.com/en_us/software/jmp-live.html](https://www.jmp.com/en_us/software/jmp-live.html)
+- **简介**：JMP的协作平台，支持团队共享和讨论统计分析结果，适合企业级的质量改进项目。
+
+#### Statistica
+- **官方网址**：[https://www.tibco.com/products/tibco-statistica](https://www.tibco.com/products/tibco-statistica)
+- **简介**：企业级统计分析软件，提供高级数据分析、机器学习和数据可视化功能，适合复杂的质量分析任务。
+
+#### Visual-XSel
+- **官方网址**：[https://crgraph.de/en/visual-xsel-software/](https://crgraph.de/en/visual-xsel-software/)
+- **简介**：德国CRGRAPH公司开发的统计分析软件，提供从入门到专业的三个版本（Standard、Weibull & DoE、Analyser），支持可靠性方法、Weibull分析、实验设计(DoE)、数据评估等功能，包含完整的六西格玛和DFSS工具集，是Minitab的经济实惠替代方案。
+
 ### 2. 质量管理系统(QMS)软件
 
 #### SAP Quality Management
