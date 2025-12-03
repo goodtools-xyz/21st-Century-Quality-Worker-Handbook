@@ -279,19 +279,6 @@
 - **官方网址**：[https://www.compliancequest.com/audit-management-software/](https://www.compliancequest.com/audit-management-software/)
 - **简介**：基于云的审计管理软件，支持质量、环境和安全等多领域的审计。
 
-### 7. 供应商质量管理工具
-
-#### Jaggaer Supplier Management
-- **官方网址**：[https://www.jaggaer.com/solutions/supplier-management/](https://www.jaggaer.com/solutions/supplier-management/)
-- **简介**：综合供应商管理平台，支持供应商评估、绩效监控和风险管理。
-
-#### Oracle Supplier Qualification Management Cloud
-- **官方网址**：[https://www.oracle.com/applications/supply-chain/supplier-qualification/](https://www.oracle.com/applications/supply-chain/supplier-qualification/)
-- **简介**：基于云的供应商资格管理系统，支持供应商评估、审核和合规管理。
-
-#### SAP Ariba Supplier Lifecycle & Performance
-- **官方网址**：[https://www.ariba.com/solutions/supplier-management/supplier-lifecycle-performance](https://www.ariba.com/solutions/supplier-management/supplier-lifecycle-performance)
-- **简介**：SAP Ariba平台中的供应商管理模块，支持供应商全生命周期管理。
 
 ## 在线学习平台
 
