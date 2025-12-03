@@ -1,6 +1,6 @@
 # 质量术语表
 
-**ISO 9000:2015官方标准链接**：[ISO 9000:2015(en), Quality management systems — Fundamentals and vocabulary](https://www.iso.org/obp/ui/en/#!iso:std:45481:en)
+
 
 本文档汇总了质量管理领域的常用术语，旨在为质量工作者提供统一的术语理解和参考。所有术语定义均参考最新的ISO 9000:2015标准，确保术语的准确性和权威性。
 
