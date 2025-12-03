@@ -12,3 +12,7 @@
 * [AIAG方法手册](standards/aiag-methods.md) - 汽车工业行动集团核心工具手册
 * [AIAG CQI手册](standards/aiag-cqi.md) - 汽车工业行动集团持续质量改进手册
 * [VDA手册](standards/vda.md) - 德国汽车工业协会标准手册
+
+## 专业领域标准
+
+* [汽车行业可靠性试验标准](standards/automotive-reliability-testing.md) - 汽车行业常用的可靠性试验标准清单
