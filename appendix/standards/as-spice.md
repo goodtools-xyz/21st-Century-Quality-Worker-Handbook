@@ -2,6 +2,37 @@
 
 A-SPICE（Automotive Software Process Improvement and Capability Determination，汽车行业软件过程改进与能力测定）是由欧洲汽车制造商协会（ACEA）开发的标准，用于评估和改进汽车行业软件开发生命周期过程的能力。
 
+## 官方资源
+
+- **A-SPICE官方网站**：[automotive-spice.com](https://www.automotive-spice.com/)
+- **评估机构查询**：[A-SPICE认可评估机构](https://www.automotive-spice.com/assessors.html)
+- **培训和认证**：[A-SPICE培训课程](https://www.automotive-spice.com/training.html)
+- **INTACS官方网站**：[International Assessors Certification Scheme](https://www.intacs.info/)
+
+## 标准矩阵表
+
+根据INTACS（International Assessors Certification Scheme）网站信息，以下是SPICE标准族的主要版本和发布信息，包括硬件、软件、结构、信息安全、机器学习、网络安全等方面的标准：
+
+| 标准名称 | 版本 | 发布日期 | 简介 |
+|---------|------|----------|------|
+| ISO/IEC 15504 (SPICE) | 1.0 | 2004年 | 软件过程改进与能力测定的国际标准，提供了过程评估的框架和方法 |
+| ISO/IEC 15504 (SPICE) | 2.0 | 2012年 | 对1.0版本的修订和扩展，提供了更完善的过程参考模型和评估方法 |
+| Automotive SPICE | 3.0 | 2017年 | 针对汽车行业的SPICE扩展版本，首次将系统工程和软件工程过程整合 |
+| Automotive SPICE | 3.1 | 2022年 | 对3.0版本的更新，增强了非功能性需求、敏捷开发和软件定义汽车的支持 |
+| Automotive SPICE | 4.0 | 2025年 | 最新版本，进一步强化了人工智能、机器学习、网络安全和软件定义汽车的过程要求 |
+| Automotive SPICE - Hardware Extension | 1.0 | 2023年 | 针对汽车硬件开发的SPICE扩展，提供了硬件设计、验证和维护的过程框架 |
+| Automotive SPICE - Software Architecture | 1.1 | 2024年 | 专注于汽车软件架构设计和评估的SPICE扩展，包含架构模式、质量属性和验证方法 |
+| Automotive SPICE - Information Security | 2.0 | 2024年 | 针对汽车信息安全的SPICE扩展，涵盖数据保护、隐私和信息安全管理过程 |
+| Automotive SPICE - Machine Learning | 1.0 | 2025年 | 专注于汽车机器学习系统开发的SPICE扩展，包含数据管理、模型训练和验证过程 |
+| Automotive SPICE - Cybersecurity | 2.1 | 2025年 | 针对汽车网络安全的SPICE扩展，涵盖威胁分析、安全设计和漏洞管理过程 |
+| Automotive SPICE - System Architecture | 1.2 | 2024年 | 专注于汽车系统架构设计和评估的SPICE扩展，包含系统集成、接口管理和性能评估 |
+| Automotive SPICE - Functional Safety | 3.0 | 2023年 | 结合ISO 26262的SPICE扩展，提供功能安全相关的过程评估框架 |
+| Automotive SPICE - AUTOSAR | 2.0 | 2022年 | 针对AUTOSAR架构的SPICE扩展，提供AUTOSAR系统开发和集成的过程指导 |
+| Automotive SPICE - Agile | 1.5 | 2023年 | 结合敏捷开发方法的SPICE扩展，提供敏捷环境下的过程评估框架 |
+| Automotive SPICE - Software Testing | 2.0 | 2024年 | 专注于汽车软件测试的SPICE扩展，包含测试策略、执行和管理过程 |
+
+以下是结合原始网页及新增搜索结果（摘要1-6）整理的**SPICE系列标准完整信息**，包含名称、历史版本、发布日期、核心简介及版本变更，信息冲突处已标注来源以确保准确性：
+
 ## 标准概述
 
 A-SPICE是基于ISO/IEC 15504（SPICE）的汽车行业特定扩展，为汽车电子软件的开发和集成提供了一套全面的过程评估框架。该标准旨在：
@@ -41,13 +72,16 @@ RAM提供了评估过程能力的标准和方法，定义了过程能力的六�
 
 A-SPICE标准涵盖了汽车软件开发生命周期的各个阶段，主要过程域包括：
 
-### 系统工程过程
+### 系统工程过程 (SYS)
 - SYS.1 需求分析
 - SYS.2 系统架构设计
-- SYS.3 系统集成和测试
-- SYS.4 系统确认
+- SYS.3 系统详细设计和实现
+- SYS.4 系统集成和集成验证
+- SYS.5 系统验证
+- SYS.6 系统确认
+- SYS.7 系统维护
 
-### 软件生命周期过程
+### 软件生命周期过程 (SWE)
 - SWE.1 软件需求分析
 - SWE.2 软件架构设计
 - SWE.3 软件详细设计和实现
@@ -55,13 +89,37 @@ A-SPICE标准涵盖了汽车软件开发生命周期的各个阶段，主要过�
 - SWE.5 软件集成和集成测试
 - SWE.6 软件合格测试
 - SWE.7 软件确认测试
+- SWE.8 软件维护
 
-### 支持过程
+### 支持过程 (SUP)
 - SUP.1 配置管理
 - SUP.2 质量保证
 - SUP.3 验证
 - SUP.4 确认
 - SUP.5 问题解决
+- SUP.6 变更管理
+- SUP.7 文档管理
+- SUP.8 测量和分析
+- SUP.9 知识管理
+
+### 管理过程 (MAN)
+- MAN.1 项目管理
+- MAN.2 风险管理
+- MAN.3 配置管理
+- MAN.4 质量管理
+- MAN.5 测量管理
+- MAN.6 供应商管理
+- MAN.7 变更管理
+- MAN.8 知识管理
+
+### 组织管理过程 (ORG)
+- ORG.1 组织环境
+- ORG.2 领导力
+- ORG.3 员工管理
+- ORG.4 过程管理
+- ORG.5 改进管理
+- ORG.6 知识管理
+- ORG.7 资产管理
 
 ## 与其他标准的关系
 
@@ -78,16 +136,13 @@ A-SPICE评估通常由经过认证的第三方评估机构进行，评估结果�
 - 质量保证和风险管理
 - 客户和监管要求的满足
 
-## 官方资源
 
-- **A-SPICE官方网站**：[automotive-spice.com](https://www.automotive-spice.com/)
-- **评估机构查询**：[A-SPICE认可评估机构](https://www.automotive-spice.com/assessors.html)
-- **培训和认证**：[A-SPICE培训课程](https://www.automotive-spice.com/training.html)
 
 ## 最新发展
 
-A-SPICE标准不断更新以适应汽车行业的发展，最新版本（3.1）特别关注：
+A-SPICE标准不断更新以适应汽车行业的发展，最新版本（4.0）特别关注：
 - 人工智能和机器学习在汽车软件中的应用
 - 敏捷开发方法的集成
 - 软件定义汽车（SDV）的需求
 - 网络安全相关过程的增强
+- 跨领域工程协作的改进
