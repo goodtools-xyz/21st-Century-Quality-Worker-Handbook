@@ -23,9 +23,7 @@
   * [软件行业标准和协会](resources/software-standards.md)
   * [质量工具与软件](resources/quality-tools.md)
   * [在线学习平台](resources/learning-platforms.md)
-
 * [参考文献](references/README.md)
-  * [质量大师](references/quality-gurus.md)
   * [著作](references/books.md)
   * [学术论文](references/papers.md)
- 
+  * [质量大师](references/quality-gurus.md)

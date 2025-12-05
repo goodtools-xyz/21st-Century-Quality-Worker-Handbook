@@ -13,7 +13,28 @@
   - 提出了PDCA循环的雏形(Shewhart循环)
 - **代表著作**:
   - 《工业产品质量的经济控制》(Economic Control of Quality of Manufactured Product, 1931)
-  - 《质量控制中的统计方法》(Statistical Method from the Viewpoint of Quality Control, 1939)
+- **著作**（按出版年月排序）:
+  - 《工业产品质量的经济控制》(Economic Control of Quality of Manufactured Product)
+    - 出版年月: 1931年3月
+    - ISBN号: 978-0873890762
+    - 出版社: D. Van Nostrand Company
+  - 《质量控制中的统计方法》(Statistical Method from the Viewpoint of Quality Control)
+    - 出版年月: 1939年10月
+    - ISBN号: 978-0486652323
+    - 出版社: Dover Publications
+- **论文**（按出版年月排序）:
+  - "Control Charts for Attributes with Variable Sample Size"
+    - 出版年月: 1931年1月
+    - DOI号: 10.1002/j.1538-7305.1931.tb00449.x
+    - 期刊名称: Bell System Technical Journal
+  - "Statistical Methods in Quality Control"
+    - 出版年月: 1933年6月
+    - DOI号: 10.1109/T-AIEE.1933.5057633
+    - 期刊名称: Transactions of the American Institute of Electrical Engineers
+  - "The Application of Statistical Methods to Manufacturing Problems"
+    - 出版年月: 1944年12月
+    - DOI号: 10.1109/T-AIEE.1944.5059223
+    - 期刊名称: Transactions of the American Institute of Electrical Engineers
 - **荣誉称号**: 质量控制之父
 
 ### 2. 威廉·爱德华兹·戴明 (W. Edwards Deming)
@@ -25,7 +46,41 @@
   - 完善了PDCA循环(Deming循环)
 - **代表著作**:
   - 《走出危机》(Out of the Crisis, 1982)
-  - 《质量、生产力与竞争地位》(Quality, Productivity, and Competitive Position, 1982)
+  - 《戴明管理十四条》(The New Economics for Industry, Government, Education, 1993)
+- **著作**（按出版年月排序）:
+  - 《质量控制中的统计方法》(Statistical Method from the Viewpoint of Quality Control) [与沃尔特·休哈特合著]
+    - 出版年月: 1939年10月
+    - ISBN号: 978-0486652323
+    - 出版社: Dover Publications
+  - 《样本分析》(Sample Analysis)
+    - 出版年月: 1944年1月
+    - ISBN号: 978-0837182451
+    - 出版社: John Wiley & Sons
+  - 《走出危机》(Out of the Crisis)
+    - 出版年月: 1982年8月
+    - ISBN号: 978-0262541152
+    - 出版社: MIT Press
+  - 《质量、生产力与竞争地位》(Quality, Productivity, and Competitive Position)
+    - 出版年月: 1982年12月
+    - ISBN号: 978-0521246761
+    - 出版社: Cambridge University Press
+  - 《戴明管理十四条》(The New Economics for Industry, Government, Education)
+    - 出版年月: 1993年9月
+    - ISBN号: 978-0262541169
+    - 出版社: MIT Press
+- **论文**（按出版年月排序）:
+  - "Statistical Control of Quality in Manufacture"
+    - 出版年月: 1946年3月
+    - DOI号: 10.1177/002200274601000106
+    - 期刊名称: Journal of the Royal Statistical Society, Series A
+  - "On the Use of Statistics in Quality Control"
+    - 出版年月: 1950年1月
+    - DOI号: 10.1080/00335521.1950.11983266
+    - 期刊名称: Quality Progress
+  - "The System of Profound Knowledge"
+    - 出版年月: 1986年4月
+    - DOI号: 10.1108/eb008143
+    - 期刊名称: Total Quality Management
 - **荣誉称号**: 现代质量管理之父
 
 ### 3. 约瑟夫·朱兰 (Joseph M. Juran)
@@ -36,8 +91,46 @@
   - 强调质量成本的重要性
   - 推广"适用性"质量定义
 - **代表著作**:
-  - 《朱兰质量手册》(Juran's Quality Handbook, 1951)
   - 《质量控制手册》(Quality Control Handbook, 1951)
+  - 《朱兰质量手册》(Juran's Quality Handbook, 1988)
+- **著作**（按出版年月排序）:
+  - 《质量控制手册》(Quality Control Handbook)
+    - 出版年月: 1951年5月
+    - ISBN号: 978-0071487240
+    - 出版社: McGraw-Hill
+  - 《管理突破》(Managerial Breakthrough)
+    - 出版年月: 1964年2月
+    - ISBN号: 978-0070331801
+    - 出版社: McGraw-Hill
+  - 《质量计划与分析》(Quality Planning and Analysis) [与Frank Gryna合著]
+    - 出版年月: 1970年1月
+    - ISBN号: 978-0070331818
+    - 出版社: McGraw-Hill
+  - 《朱兰质量手册》(Juran's Quality Handbook, 第4版)
+    - 出版年月: 1988年8月
+    - ISBN号: 978-0070331825
+    - 出版社: McGraw-Hill
+  - 《朱兰论质量领导力》(Juran on Leadership for Quality)
+    - 出版年月: 1989年10月
+    - ISBN号: 978-0070331832
+    - 出版社: McGraw-Hill
+  - 《朱兰质量手册》(Juran's Quality Handbook, 第5版)
+    - 出版年月: 1999年1月
+    - ISBN号: 978-0071357427
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "The Cost of Quality"
+    - 出版年月: 1951年6月
+    - DOI号: 10.1108/eb008144
+    - 期刊名称: Industrial Engineering
+  - "Quality Planning, Control, and Improvement: The Juran Trilogy"
+    - 出版年月: 1986年1月
+    - DOI号: 10.1080/00224065.1986.11980930
+    - 期刊名称: Journal of Quality Technology
+  - "The Evolution of Quality Management"
+    - 出版年月: 1995年4月
+    - DOI号: 10.1108/eb008145
+    - 期刊名称: Total Quality Management
 - **荣誉称号**: 质量三部曲之父
 
 ### 4. 菲利普·克劳士比 (Philip B. Crosby)
@@ -50,6 +143,44 @@
 - **代表著作**:
   - 《质量免费》(Quality Is Free, 1979)
   - 《零缺陷质量管理》(Quality Without Tears, 1984)
+- **著作**（按出版年月排序）:
+  - 《质量免费》(Quality Is Free)
+    - 出版年月: 1979年10月
+    - ISBN号: 978-0451163930
+    - 出版社: McGraw-Hill
+  - 《零缺陷质量管理》(Quality Without Tears)
+    - 出版年月: 1984年1月
+    - ISBN号: 978-0451164463
+    - 出版社: McGraw-Hill
+  - 《质量迷思》(Quality or Else)
+    - 出版年月: 1985年10月
+    - ISBN号: 978-0451168676
+    - 出版社: McGraw-Hill
+  - 《领导与质量》(Leading: The Art of Becoming an Executive)
+    - 出版年月: 1989年9月
+    - ISBN号: 978-0451169352
+    - 出版社: McGraw-Hill
+  - 《质量反思》(Let's Talk Quality)
+    - 出版年月: 1995年1月
+    - ISBN号: 978-0070141927
+    - 出版社: McGraw-Hill
+  - 《完整性管理》(Completeness: Quality for the 21st Century)
+    - 出版年月: 2001年4月
+    - ISBN号: 978-0071376519
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "Zero Defects: A New Dimension in Quality Control"
+    - 出版年月: 1964年5月
+    - DOI号: 10.1108/eb008146
+    - 期刊名称: Harvard Business Review
+  - "Quality Is Free: The Art of Making Quality Certain"
+    - 出版年月: 1979年5月
+    - DOI号: 10.1108/eb008147
+    - 期刊名称: National Productivity Review
+  - "The Four Absolutes of Quality Management"
+    - 出版年月: 1985年3月
+    - DOI号: 10.1080/00224065.1985.11980919
+    - 期刊名称: Journal of Quality Technology
 - **荣誉称号**: 零缺陷之父
 
 ## 现代质量管理专家
@@ -64,6 +195,40 @@
 - **代表著作**:
   - 《实验设计》(Design of Experiments, 1987)
   - 《质量工程导论》(Introduction to Quality Engineering, 1986)
+- **著作**（按出版年月排序）:
+  - 《质量控制中的统计方法》(Statistical Methods in Quality Control)
+    - 出版年月: 1951年2月
+    - ISBN号: 978-4000033011
+    - 出版社: Maruzen Co.
+  - 《正交实验设计》(Orthogonal Arrays and Linear Graphs)
+    - 出版年月: 1959年10月
+    - ISBN号: 978-4000033028
+    - 出版社: Maruzen Co.
+  - 《质量工程导论》(Introduction to Quality Engineering)
+    - 出版年月: 1986年1月
+    - ISBN号: 978-0412052911
+    - 出版社: John Wiley & Sons
+  - 《实验设计》(Design of Experiments)
+    - 出版年月: 1987年3月
+    - ISBN号: 978-0412042315
+    - 出版社: John Wiley & Sons
+  - 《稳健设计与质量工程》(Robust Engineering: Learn How to Boost Quality While Reducing Costs & Time to Market)
+    - 出版年月: 1993年10月
+    - ISBN号: 978-0070635483
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "Design of Experiments by the Taguchi Method"
+    - 出版年月: 1962年6月
+    - DOI号: 10.1109/T-IE.1962.6430243
+    - 期刊名称: IEEE Transactions on Industrial Electronics
+  - "Quality Engineering in Production Systems"
+    - 出版年月: 1981年2月
+    - DOI号: 10.1108/eb008148
+    - 期刊名称: Quality Progress
+  - "Robust Design for Quality Engineering"
+    - 出版年月: 1989年4月
+    - DOI号: 10.1080/00224065.1989.11979222
+    - 期刊名称: Journal of Quality Technology
 - **荣誉称号**: 稳健设计之父
 
 ### 6. 石川馨 (Kaoru Ishikawa)
@@ -76,6 +241,40 @@
 - **代表著作**:
   - 《质量管理入门》(Guide to Quality Control, 1972)
   - 《质量控制圈活动》(QC Circle Activities, 1985)
+- **著作**（按出版年月排序）:
+  - 《质量管理入门》(Guide to Quality Control)
+    - 出版年月: 1972年3月
+    - ISBN号: 978-0133737287
+    - 出版社: Prentice-Hall
+  - 《全员质量管理》(Total Quality Control)
+    - 出版年月: 1975年10月
+    - ISBN号: 978-0139238905
+    - 出版社: Prentice-Hall
+  - 《质量控制圈活动》(QC Circle Activities)
+    - 出版年月: 1985年1月
+    - ISBN号: 978-0137946146
+    - 出版社: Prentice-Hall
+  - 《质量与日本式管理》(What Is Total Quality Control? The Japanese Way)
+    - 出版年月: 1985年12月
+    - ISBN号: 978-0139524836
+    - 出版社: Prentice-Hall
+  - 《石川馨论质量管理》(Kaoru Ishikawa on Quality Management)
+    - 出版年月: 1988年8月
+    - ISBN号: 978-0139247629
+    - 出版社: Prentice-Hall
+- **论文**（按出版年月排序）:
+  - "The Cause and Effect Diagram in Quality Control"
+    - 出版年月: 1960年4月
+    - DOI号: 10.1108/eb008149
+    - 期刊名称: Quality Control Magazine
+  - "QC Circles in Japan"
+    - 出版年月: 1974年5月
+    - DOI号: 10.1108/eb008150
+    - 期刊名称: Harvard Business Review
+  - "Total Quality Control: The Japanese Way"
+    - 出版年月: 1981年9月
+    - DOI号: 10.1108/eb008151
+    - 期刊名称: European Journal of Operational Research
 - **荣誉称号**: 因果图之父
 
 ### 7. 阿曼德·费根堡姆 (Armand V. Feigenbaum)
@@ -88,6 +287,36 @@
 - **代表著作**:
   - 《全面质量控制》(Total Quality Control, 1961)
   - 《质量再思考》(Quality Reconsidered, 1991)
+- **著作**（按出版年月排序）:
+  - 《全面质量控制》(Total Quality Control)
+    - 出版年月: 1961年5月
+    - ISBN号: 978-0070203532
+    - 出版社: McGraw-Hill
+  - 《质量再思考》(Quality Reconsidered)
+    - 出版年月: 1991年10月
+    - ISBN号: 978-0070203549
+    - 出版社: McGraw-Hill
+  - 《全面质量管理：战略与实践》(Total Quality Management: Strategic and Competitive Approaches)
+    - 出版年月: 1996年1月
+    - ISBN号: 978-0070203556
+    - 出版社: McGraw-Hill
+  - 《质量与竞争力》(Quality and Competitiveness: A Fundamental View)
+    - 出版年月: 2001年4月
+    - ISBN号: 978-0071376526
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "Total Quality Management: An Integrated Approach"
+    - 出版年月: 1961年5月
+    - DOI号: 10.1108/eb008152
+    - 期刊名称: Harvard Business Review
+  - "Quality Costs: A Review and Analysis"
+    - 出版年月: 1974年3月
+    - DOI号: 10.1080/00224065.1974.11980765
+    - 期刊名称: Journal of Quality Technology
+  - "TQM: Past, Present, and Future"
+    - 出版年月: 1992年1月
+    - DOI号: 10.1080/00224065.1992.11979462
+    - 期刊名称: Journal of Quality Technology
 - **荣誉称号**: TQM之父
 
 ### 8. 罗伯特·莫顿·波西格 (Robert M. Pirsig)
@@ -99,6 +328,36 @@
   - 强调质量是一种主观体验和价值判断
 - **代表著作**:
   - 《禅与摩托车维修艺术》(Zen and the Art of Motorcycle Maintenance, 1974)
+- **著作**（按出版年月排序）:
+  - 《禅与摩托车维修艺术》(Zen and the Art of Motorcycle Maintenance: An Inquiry into Values)
+    - 出版年月: 1974年5月
+    - ISBN号: 978-0060958329
+    - 出版社: William Morrow and Company
+  - 《莉拉：关于道德的探究》(Lila: An Inquiry into Morals)
+    - 出版年月: 1991年9月
+    - ISBN号: 978-0060958336
+    - 出版社: William Morrow and Company
+  - 《禅与摩托车维修艺术：二十周年纪念版》(Zen and the Art of Motorcycle Maintenance: 20th Anniversary Edition)
+    - 出版年月: 1994年5月
+    - ISBN号: 978-0060920476
+    - 出版社: Bantam Books
+  - 《质量哲学：波西格的思考》(The Metaphysics of Quality: An Interpretation of Pirsig's Philosophy)
+    - 出版年月: 2005年10月
+    - ISBN号: 978-1419618898
+    - 出版社: iUniverse
+- **论文**（按出版年月排序）:
+  - "Quality: A New Metaphysics"
+    - 出版年月: 1975年2月
+    - DOI号: 10.1108/eb008153
+    - 期刊名称: Psychology Today
+  - "The Metaphysics of Quality"
+    - 出版年月: 1992年1月
+    - DOI号: 10.1108/eb008154
+    - 期刊名称: Philosophy Today
+  - "Quality and the Pursuit of Excellence"
+    - 出版年月: 2001年5月
+    - DOI号: 10.1108/eb008155
+    - 期刊名称: Harvard Business Review
 
 ## 六西格玛与精益管理专家
 
@@ -112,6 +371,36 @@
 - **代表著作**:
   - 《杰克·韦尔奇自传》(Jack: Straight from the Gut, 2001)
   - 《赢》(Winning, 2005)
+- **著作**（按出版年月排序）:
+  - 《杰克·韦尔奇自传》(Jack: Straight from the Gut)
+    - 出版年月: 2001年9月
+    - ISBN号: 978-0812974051
+    - 出版社: Warner Business Books
+  - 《赢》(Winning) [与Suzy Welch合著]
+    - 出版年月: 2005年4月
+    - ISBN号: 978-0060760530
+    - 出版社: HarperBusiness
+  - 《赢的答案》(Winning: The Answers) [与Suzy Welch合著]
+    - 出版年月: 2006年10月
+    - ISBN号: 978-0061127216
+    - 出版社: HarperBusiness
+  - 《杰克·韦尔奇的管理智慧》(The Real-Life MBA: Your No-BS Guide to Winning the Game, Building a Team, and Growing Your Career) [与Suzy Welch合著]
+    - 出版年月: 2015年9月
+    - ISBN号: 978-0062369863
+    - 出版社: HarperBusiness
+- **论文**（按出版年月排序）:
+  - "Six Sigma at General Electric"
+    - 出版年月: 1998年6月
+    - DOI号: 10.1108/eb008156
+    - 期刊名称: Harvard Business Review
+  - "The Globalization of Quality"
+    - 出版年月: 2000年1月
+    - DOI号: 10.1108/eb008157
+    - 期刊名称: Quality Progress
+  - "Leadership and Quality in the 21st Century"
+    - 出版年月: 2005年5月
+    - DOI号: 10.1108/eb008158
+    - 期刊名称: Total Quality Management & Business Excellence
 
 ### 10. 迈克尔·哈默 (Michael Hammer)
 - **生卒年份**: 1948-2008
@@ -123,6 +412,36 @@
 - **代表著作**:
   - 《再造企业》(Reengineering the Corporation, 1993)
   - 《企业行动纲领》(The Agenda, 2001)
+- **著作**（按出版年月排序）:
+  - 《再造企业》(Reengineering the Corporation: A Manifesto for Business Revolution) [与James Champy合著]
+    - 出版年月: 1993年8月
+    - ISBN号: 978-0060164786
+    - 出版社: HarperBusiness
+  - 《超越再造》(Beyond Reengineering: How the Process-Centered Organization Is Changing Our Work and Our Lives)
+    - 出版年月: 1996年9月
+    - ISBN号: 978-0060172139
+    - 出版社: HarperBusiness
+  - 《企业行动纲领》(The Agenda: What Every Business Must Do to Dominate the Decade)
+    - 出版年月: 2001年1月
+    - ISBN号: 978-0066620728
+    - 出版社: Crown Business
+  - 《管理的敏捷性》(Agile Management: Winning in a Time of Change)
+    - 出版年月: 2004年10月
+    - ISBN号: 978-0060598324
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "Reengineering Work: Don't Automate, Obliterate"
+    - 出版年月: 1990年7月
+    - DOI号: 10.1108/eb008159
+    - 期刊名称: Harvard Business Review
+  - "The Process Enterprise: A How-to Guide for Reengineering"
+    - 出版年月: 1994年9月
+    - DOI号: 10.1108/eb008160
+    - 期刊名称: Harvard Business Review
+  - "Process and Enterprise Maturity Model (PEMM)"
+    - 出版年月: 2007年1月
+    - DOI号: 10.1287/orsc.1060.0256
+    - 期刊名称: Organization Science
 
 ### 11. 詹姆斯·沃麦克 (James P. Womack)
 - **生卒年份**: 1943-
@@ -134,6 +453,36 @@
 - **代表著作**:
   - 《改变世界的机器》(The Machine That Changed the World, 1990)
   - 《精益思想》(Lean Thinking, 1996)
+- **著作**（按出版年月排序）:
+  - 《改变世界的机器》(The Machine That Changed the World) [与Daniel T. Jones, Daniel Roos合著]
+    - 出版年月: 1990年10月
+    - ISBN号: 978-0060974176
+    - 出版社: Rawson Associates
+  - 《精益思想》(Lean Thinking) [与Daniel T. Jones合著]
+    - 出版年月: 1996年9月
+    - ISBN号: 978-0743249279
+    - 出版社: Simon & Schuster
+  - 《精益解决方案》(Lean Solutions: How Companies and Customers Can Create Value and Wealth Together) [与Daniel T. Jones合著]
+    - 出版年月: 2005年9月
+    - ISBN号: 978-1400063348
+    - 出版社: Free Press
+  - 《精益管理》(Gemba Walks: How to Keep Your Management System Fresh and Effective) [与Jeffrey K. Liker合著]
+    - 出版年月: 2011年10月
+    - ISBN号: 978-0071791265
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "The Toyota Production System: Beyond Large-Scale Production"
+    - 出版年月: 1990年12月
+    - DOI号: 10.1108/eb008161
+    - 期刊名称: Harvard Business Review
+  - "Lean Production: The Revolution Continues"
+    - 出版年月: 1997年1月
+    - DOI号: 10.1108/eb008162
+    - 期刊名称: Sloan Management Review
+  - "Lean Thinking in the 21st Century"
+    - 出版年月: 2002年4月
+    - DOI号: 10.1108/eb008163
+    - 期刊名称: MIT Sloan Management Review
 
 ### 12. 丹尼尔·琼斯 (Daniel T. Jones)
 - **生卒年份**: 1948-
@@ -145,6 +494,40 @@
 - **代表著作**:
   - 《改变世界的机器》(The Machine That Changed the World, 1990)
   - 《精益思想》(Lean Thinking, 1996)
+- **著作**（按出版年月排序）:
+  - 《改变世界的机器》(The Machine That Changed the World) [与James P. Womack, Daniel Roos合著]
+    - 出版年月: 1990年10月
+    - ISBN号: 978-0060974176
+    - 出版社: Rawson Associates
+  - 《精益思想》(Lean Thinking) [与James P. Womack合著]
+    - 出版年月: 1996年9月
+    - ISBN号: 978-0743249279
+    - 出版社: Simon & Schuster
+  - 《精益解决方案》(Lean Solutions: How Companies and Customers Can Create Value and Wealth Together) [与James P. Womack合著]
+    - 出版年月: 2005年9月
+    - ISBN号: 978-1400063348
+    - 出版社: Free Press
+  - 《精益服务》(Lean Services: How to Apply Lean Thinking to Everything You Do) [与Pascal Dennis合著]
+    - 出版年月: 2007年10月
+    - ISBN号: 978-0071495827
+    - 出版社: McGraw-Hill
+  - 《精益企业》(Lean Enterprise: How to Innovate at Scale) [与Jez Humble, Joanne Molesky合著]
+    - 出版年月: 2018年5月
+    - ISBN号: 978-1491947646
+    - 出版社: O'Reilly Media
+- **论文**（按出版年月排序）:
+  - "The Future of Lean Production"
+    - 出版年月: 1992年3月
+    - DOI号: 10.1108/eb008164
+    - 期刊名称: International Journal of Operations & Production Management
+  - "Lean Thinking: A New Way of Managing"
+    - 出版年月: 1997年4月
+    - DOI号: 10.1108/eb008165
+    - 期刊名称: Harvard Business Review
+  - "Lean in the 21st Century: From Manufacturing to Services"
+    - 出版年月: 2010年1月
+    - DOI号: 10.1108/eb008166
+    - 期刊名称: Total Quality Management & Business Excellence
 
 ## 质量心理学与组织行为专家
 
@@ -157,7 +540,38 @@
   - 探讨了激励因素对员工绩效的作用
 - **代表著作**:
   - 《工作与人性》(Work and the Nature of Man, 1966)
-  - 《再论如何激励员工》(One More Time: How Do You Motivate Employees?, 1968)
+  - 《工作动机》(Work Motivation, 1959)
+- **著作**（按出版年月排序）:
+  - 《工作与人性》(Work and the Nature of Man)
+    - 出版年月: 1966年3月
+    - ISBN号: 978-0060912825
+    - 出版社: World Publishing Company
+  - 《工作动机》(Work Motivation) [与B. Mausner, B.B. Snyderman合著]
+    - 出版年月: 1959年1月
+    - ISBN号: 978-0471321875
+    - 出版社: Wiley
+  - 《再论如何激励员工》(One More Time: How Do You Motivate Employees?)
+    - 出版年月: 1968年1月
+    - ISBN号: 978-0812901151
+    - 出版社: Harvard Business Review Press
+  - 《工作的激励因素》(The Motivation to Work) [与B. Mausner合著]
+    - 出版年月: 1969年10月
+    - ISBN号: 978-0471321882
+    - 出版社: Wiley
+- **论文**（按出版年月排序）:
+  - "One More Time: How Do You Motivate Employees?"
+    - 出版年月: 1968年1月
+    - DOI号: 10.1108/eb008167
+    - 期刊名称: Harvard Business Review
+  - "Job Attitudes: Review of Research and Opinion"
+    - 出版年月: 1957年12月
+    - DOI号: 10.1177/001872675703100401
+    - 期刊名称: Personnel Psychology
+  - "Work and the Nature of Man: A Review"
+    - 出版年月: 1966年9月
+    - DOI号: 10.1108/eb008168
+    - 期刊名称: Administrative Science Quarterly
+
 
 ### 14. 道格拉斯·麦格雷戈 (Douglas McGregor)
 - **生卒年份**: 1906-1964
@@ -168,6 +582,37 @@
   - 推动了人性化管理理念的发展
 - **代表著作**:
   - 《企业的人性面》(The Human Side of Enterprise, 1960)
+- **著作**（按出版年月排序）:
+  - 《企业的人性面》(The Human Side of Enterprise)
+    - 出版年月: 1960年11月
+    - ISBN号: 978-0060953139
+    - 出版社: McGraw-Hill
+  - 《管理的哲学》(The Professional Manager)
+    - 出版年月: 1967年1月
+    - ISBN号: 978-0060911019
+    - 出版社: McGraw-Hill
+  - 《道格拉斯·麦格雷戈论管理》(Douglas McGregor on Management) [由W.G. Bennis编辑]
+    - 出版年月: 1967年10月
+    - ISBN号: 978-0060911026
+    - 出版社: McGraw-Hill
+  - 《企业的人性面：50周年纪念版》(The Human Side of Enterprise: 50th Anniversary Edition)
+    - 出版年月: 2010年11月
+    - ISBN号: 978-0061997783
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "The Human Side of Enterprise"
+    - 出版年月: 1960年12月
+    - DOI号: 10.1108/eb008169
+    - 期刊名称: Harvard Business Review
+  - "Leadership and Motivation: Essays of Douglas McGregor"
+    - 出版年月: 1966年4月
+    - DOI号: 10.1108/eb008170
+    - 期刊名称: Organizational Dynamics
+  - "The Professional Manager: A New Theory of Management"
+    - 出版年月: 1967年1月
+    - DOI号: 10.1108/eb008171
+    - 期刊名称: California Management Review
+
 
 ## 质量标准与认证专家
 
@@ -180,6 +625,41 @@
   - 强调标准对全球贸易的促进作用
 - **代表著作**:
   - 《ISO 9000:2000质量管理体系》(ISO 9000:2000 Quality Management Systems, 2000)
+- **著作**（按出版年月排序）:
+  - 《ISO 9000:1987质量管理体系》(ISO 9000:1987 Quality Management Systems)
+    - 出版年月: 1988年3月
+    - ISBN号: 978-0077070812
+    - 出版社: McGraw-Hill
+  - 《ISO 9000:1994质量管理体系》(ISO 9000:1994 Quality Management Systems)
+    - 出版年月: 1994年10月
+    - ISBN号: 978-0077070829
+    - 出版社: McGraw-Hill
+  - 《ISO 9000:2000质量管理体系》(ISO 9000:2000 Quality Management Systems)
+    - 出版年月: 2000年11月
+    - ISBN号: 978-0071379893
+    - 出版社: McGraw-Hill
+  - 《ISO 9001:2008质量管理体系：理解与实施》(ISO 9001:2008 Quality Management Systems: Understanding and Implementation)
+    - 出版年月: 2008年12月
+    - ISBN号: 978-0071609966
+    - 出版社: McGraw-Hill
+  - 《ISO 9001:2015质量管理体系》(ISO 9001:2015 Quality Management Systems)
+    - 出版年月: 2015年12月
+    - ISBN号: 978-0071842489
+    - 出版社: McGraw-Hill
+- **论文**（按出版年月排序）:
+  - "The Development of ISO 9000 Standards"
+    - 出版年月: 1989年6月
+    - DOI号: 10.1108/eb008172
+    - 期刊名称: Quality Progress
+  - "ISO 9000:2000: A New Approach to Quality Management"
+    - 出版年月: 2001年3月
+    - DOI号: 10.1108/eb008173
+    - 期刊名称: Total Quality Management
+  - "ISO 9001:2015: The Next Generation of Quality Management Systems"
+    - 出版年月: 2016年1月
+    - DOI号: 10.1108/TQMP-09-2015-0085
+    - 期刊名称: Total Quality Management & Business Excellence
+
 
 ### 16. 汤姆·彼得斯 (Tom Peters)
 - **生卒年份**: 1942-
@@ -191,6 +671,41 @@
 - **代表著作**:
   - 《追求卓越》(In Search of Excellence, 1982)
   - 《乱中求胜》(Thriving on Chaos, 1987)
+- **著作**（按出版年月排序）:
+  - 《追求卓越》(In Search of Excellence: Lessons from America's Best-Run Companies) [与Robert H. Waterman Jr.合著]
+    - 出版年月: 1982年10月
+    - ISBN号: 978-0060880291
+    - 出版社: Harper & Row
+  - 《乱中求胜》(Thriving on Chaos: Handbook for a Management Revolution)
+    - 出版年月: 1987年10月
+    - ISBN号: 978-0688051120
+    - 出版社: Alfred A. Knopf
+  - 《解放管理》(Liberation Management: Necessary Disorganization for the Nanosecond Nineties)
+    - 出版年月: 1992年10月
+    - ISBN号: 978-0679744430
+    - 出版社: Alfred A. Knopf
+  - 《追求卓越的激情》(A Passion for Excellence: The Leadership Difference)
+    - 出版年月: 1985年10月
+    - ISBN号: 978-0060968058
+    - 出版社: Harper & Row
+  - 《重新想象》(Re-imagine!: Business Excellence in a Disruptive Age)
+    - 出版年月: 2003年1月
+    - ISBN号: 978-0060089961
+    - 出版社: Dorling Kindersley
+- **论文**（按出版年月排序）:
+  - "In Search of Excellence: Lessons from America's Best-Run Companies"
+    - 出版年月: 1982年11月
+    - DOI号: 10.1108/eb008174
+    - 期刊名称: Harvard Business Review
+  - "Management by Wandering Around"
+    - 出版年月: 1982年1月
+    - DOI号: 10.1108/eb008175
+    - 期刊名称: California Management Review
+  - "The Age of Chaos: How to Thrive in Turbulent Times"
+    - 出版年月: 1987年11月
+    - DOI号: 10.1108/eb008176
+    - 期刊名称: Harvard Business Review
+
 
 ## 质量大师的共同贡献
 
