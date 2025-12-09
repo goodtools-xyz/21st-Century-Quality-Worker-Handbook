@@ -6,6 +6,8 @@
 
 ## DMAIC模式路径图
 
+![DMAIC模式路径图](images/dmaic-model.svg)
+
 ### 1. 定义阶段（Define）
 
 **目标**：明确问题、确定范围、设定目标并组建团队。

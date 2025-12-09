@@ -1,0 +1,131 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- 标题 -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0066cc">Six Sigma-DMAIC模式路径图</text>
+  
+  <!-- 阶段箭头 -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0066cc" />
+    </marker>
+  </defs>
+  
+  <!-- 阶段框和连接线 -->
+  <rect x="50" y="80" width="130" height="35" fill="#ffff00" stroke="#000000" stroke-width="1" rx="5" ry="5" />
+  <text x="115" y="102" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc0000">Define</text>
+  <line x1="180" y1="97.5" x2="250" y2="97.5" stroke="#0066cc" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <rect x="250" y="80" width="130" height="35" fill="#ffff00" stroke="#000000" stroke-width="1" rx="5" ry="5" />
+  <text x="315" y="102" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc0000">Measure</text>
+  <line x1="380" y1="97.5" x2="450" y2="97.5" stroke="#0066cc" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <rect x="450" y="80" width="130" height="35" fill="#ffcccc" stroke="#000000" stroke-width="1" rx="5" ry="5" />
+  <text x="515" y="102" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc0000">Analyze</text>
+  <line x1="580" y1="97.5" x2="650" y2="97.5" stroke="#0066cc" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <rect x="650" y="80" width="130" height="35" fill="#0099ff" stroke="#000000" stroke-width="1" rx="5" ry="5" />
+  <text x="715" y="102" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc0000">Improve</text>
+  <line x1="780" y1="97.5" x2="820" y2="97.5" stroke="#0066cc" stroke-width="2" marker-end="url(#arrowhead)" />
+  
+  <rect x="820" y="80" width="130" height="35" fill="#66cc66" stroke="#000000" stroke-width="1" rx="5" ry="5" />
+  <text x="885" y="102" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#cc0000">Control</text>
+  
+  <!-- 标签对齐右侧框 -->
+  <text x="970" y="97" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#cc0000">阶段</text>
+  <text x="970" y="175" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#cc0000">活动</text>
+  <text x="970" y="305" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#cc0000">常用工具</text>
+  
+  <!-- Define阶段活动 -->
+  <rect x="50" y="130" width="130" height="90" fill="#ffffcc" stroke="#000000" stroke-width="1" />
+  <text x="55" y="150" font-family="Arial, sans-serif" font-size="10">• 陈述问题</text>
+  <text x="55" y="165" font-family="Arial, sans-serif" font-size="10">• 定义范围</text>
+  <text x="55" y="180" font-family="Arial, sans-serif" font-size="10">• 项目范围</text>
+  <text x="55" y="195" font-family="Arial, sans-serif" font-size="10">• 目标与收益预估</text>
+  <text x="55" y="210" font-family="Arial, sans-serif" font-size="10">• 项目团队</text>
+  <text x="55" y="225" font-family="Arial, sans-serif" font-size="10">• 项目计划</text>
+  
+  <!-- Define阶段工具 -->
+  <rect x="50" y="240" width="130" height="130" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <text x="55" y="260" font-family="Arial, sans-serif" font-size="10">• COPQ</text>
+  <text x="55" y="275" font-family="Arial, sans-serif" font-size="10">• 柏拉图</text>
+  <text x="55" y="290" font-family="Arial, sans-serif" font-size="10">• CTQ矩阵</text>
+  <text x="55" y="305" font-family="Arial, sans-serif" font-size="10">• 标杆对比</text>
+  <text x="55" y="320" font-family="Arial, sans-serif" font-size="10">• SIPOC</text>
+  <text x="55" y="335" font-family="Arial, sans-serif" font-size="10">• 项目风险管理</text>
+  <text x="55" y="350" font-family="Arial, sans-serif" font-size="10">• 项目章程</text>
+  
+  <!-- Measure阶段活动 -->
+  <rect x="250" y="130" width="130" height="90" fill="#ffffcc" stroke="#000000" stroke-width="1" />
+  <text x="255" y="150" font-family="Arial, sans-serif" font-size="10">• 流程分析</text>
+  <text x="255" y="165" font-family="Arial, sans-serif" font-size="10">• 数据收集</text>
+  <text x="255" y="180" font-family="Arial, sans-serif" font-size="10">• 测量系统分析</text>
+  <text x="255" y="195" font-family="Arial, sans-serif" font-size="10">• 过程能力评价</text>
+  
+  <!-- Measure阶段工具 -->
+  <rect x="250" y="240" width="130" height="130" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <text x="255" y="260" font-family="Arial, sans-serif" font-size="10">• 流程图</text>
+  <text x="255" y="275" font-family="Arial, sans-serif" font-size="10">• 过程地图</text>
+  <text x="255" y="290" font-family="Arial, sans-serif" font-size="10">• 数据收集计划</text>
+  <text x="255" y="305" font-family="Arial, sans-serif" font-size="10">• 检查表</text>
+  <text x="255" y="320" font-family="Arial, sans-serif" font-size="10">• 帕累托图</text>
+  <text x="255" y="335" font-family="Arial, sans-serif" font-size="10">• MSA</text>
+  <text x="255" y="350" font-family="Arial, sans-serif" font-size="10">• 过程能力分析</text>
+  <text x="255" y="365" font-family="Arial, sans-serif" font-size="10">• 统计过程控制</text>
+  
+  <!-- Analyze阶段活动 -->
+  <rect x="450" y="130" width="130" height="90" fill="#ffeeee" stroke="#000000" stroke-width="1" />
+  <text x="455" y="150" font-family="Arial, sans-serif" font-size="10">• 初步筛选原因</text>
+  <text x="455" y="165" font-family="Arial, sans-serif" font-size="10">• 挖掘深层原因</text>
+  <text x="455" y="180" font-family="Arial, sans-serif" font-size="10">• 验证关键原因</text>
+  
+  <!-- Analyze阶段工具 -->
+  <rect x="450" y="240" width="130" height="130" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <text x="455" y="260" font-family="Arial, sans-serif" font-size="10">• 因果图/5Why</text>
+  <text x="455" y="275" font-family="Arial, sans-serif" font-size="10">• QFD</text>
+  <text x="455" y="290" font-family="Arial, sans-serif" font-size="10">• FMEA/FTA</text>
+  <text x="455" y="305" font-family="Arial, sans-serif" font-size="10">• 图形分析方法</text>
+  <text x="455" y="320" font-family="Arial, sans-serif" font-size="10">• 假设检验</text>
+  <text x="455" y="335" font-family="Arial, sans-serif" font-size="10">• 方差分析</text>
+  <text x="455" y="350" font-family="Arial, sans-serif" font-size="10">• 多变量分析</text>
+  <text x="455" y="365" font-family="Arial, sans-serif" font-size="10">• 列联表</text>
+  <text x="455" y="380" font-family="Arial, sans-serif" font-size="10">• 回归分析</text>
+  <text x="455" y="395" font-family="Arial, sans-serif" font-size="10">• DOE（筛选设计）</text>
+  
+  <!-- Improve阶段活动 -->
+  <rect x="650" y="130" width="130" height="90" fill="#cceeff" stroke="#000000" stroke-width="1" />
+  <text x="655" y="150" font-family="Arial, sans-serif" font-size="10">• 提出改进方案</text>
+  <text x="655" y="165" font-family="Arial, sans-serif" font-size="10">• 筛选改进方案</text>
+  <text x="655" y="180" font-family="Arial, sans-serif" font-size="10">• 验证改进方案</text>
+  
+  <!-- Improve阶段工具 -->
+  <rect x="650" y="240" width="130" height="130" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <text x="655" y="260" font-family="Arial, sans-serif" font-size="10">• 创新思维方法</text>
+  <text x="655" y="275" font-family="Arial, sans-serif" font-size="10">• 筛选方案技术</text>
+  <text x="655" y="290" font-family="Arial, sans-serif" font-size="10">• DOE（优化）</text>
+  <text x="655" y="305" font-family="Arial, sans-serif" font-size="10">• 全因子试验分析</text>
+  <text x="655" y="320" font-family="Arial, sans-serif" font-size="10">• 响应曲面法</text>
+  <text x="655" y="335" font-family="Arial, sans-serif" font-size="10">• 混料设计</text>
+  <text x="655" y="350" font-family="Arial, sans-serif" font-size="10">• 稳健参数设计</text>
+  <text x="655" y="365" font-family="Arial, sans-serif" font-size="10">• 回归分析</text>
+  <text x="655" y="380" font-family="Arial, sans-serif" font-size="10">• 甘特图</text>
+  
+  <!-- Control阶段活动 -->
+  <rect x="820" y="130" width="130" height="90" fill="#e6ffe6" stroke="#000000" stroke-width="1" />
+  <text x="825" y="150" font-family="Arial, sans-serif" font-size="10">• 验证改进成果</text>
+  <text x="825" y="165" font-family="Arial, sans-serif" font-size="10">• 财务收益结算</text>
+  <text x="825" y="180" font-family="Arial, sans-serif" font-size="10">• 长期标准化</text>
+  <text x="825" y="195" font-family="Arial, sans-serif" font-size="10">• 项目结束报告</text>
+  
+  <!-- Control阶段工具 -->
+  <rect x="820" y="240" width="130" height="130" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <text x="825" y="260" font-family="Arial, sans-serif" font-size="10">• MSA</text>
+  <text x="825" y="275" font-family="Arial, sans-serif" font-size="10">• 假设检验</text>
+  <text x="825" y="290" font-family="Arial, sans-serif" font-size="10">• 过程能力分析</text>
+  <text x="825" y="305" font-family="Arial, sans-serif" font-size="10">• 统计过程控制</text>
+  <text x="825" y="320" font-family="Arial, sans-serif" font-size="10">• Poka-Yoke</text>
+  <text x="825" y="335" font-family="Arial, sans-serif" font-size="10">• QFD</text>
+  <text x="825" y="350" font-family="Arial, sans-serif" font-size="10">• FMEA</text>
+  <text x="825" y="365" font-family="Arial, sans-serif" font-size="10">• 控制计划</text>
+  <text x="825" y="380" font-family="Arial, sans-serif" font-size="10">• 标准操作程序</text>
+  
+  <!-- 版权信息已移除 -->
+</svg>
