@@ -16,8 +16,6 @@
 - Checklists - 检查表
 - CheckPoint Sheets - 检查点表
 - CPA - 关键性优先分析
-- Concept Generation - 概念生成
-- Conceptual Modeling of Performance - 性能概念建模
 - Conjoint Analysis - 联合分析
 - Control Charts - 控制图
 - Control Plan - 控制计划
@@ -26,7 +24,6 @@
 - CQI-10 - 有效的问题解决指南
 - CQI-11 - 特殊过程：电镀系统评估
 - CQI-12 - 特殊过程：喷涂系统评估
-- CQI-14 - 汽车保修管理：行业最佳实践指南
 - CQI-15 - 特殊过程：焊接系统评估
 - CQI-17 - 特殊过程：锡焊系统评估
 - CQI-18 - 有效防错指南
