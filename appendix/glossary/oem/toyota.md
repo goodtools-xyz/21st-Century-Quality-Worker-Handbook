@@ -18,29 +18,143 @@
 
 ## 核心术语定义
 
+### 1W/1A
+**定义**：第一次试生产，W、A分别针对焊装与总装部品。
+
+### 2W/2A
+**定义**：第二次试生产，W、A分别针对焊装与总装部品。
+
 ### 5S管理
 **定义**：整理（Seiri）、整顿（Seiton）、清扫（Seiso）、清洁（Seiketsu）、素养（Shitsuke）的简称，是现场管理的基础方法。
+
+### AS
+**定义**：Advanced Sample，整车电子平台验证。
+
+### C/F
+**定义**：Check fixture, 检具。
+
+### CF
+**定义**：在检具上进行部品评价，分CF1/CF2/CF3等。
+
+### CV
+**定义**：Conformation Vehicle，整车设计验证。
+
+### D车
+**定义**：耐久实验车。
+
+### DI
+**定义**：DATA。
+
+### DR
+**定义**：Design Review，设计评审。
+
+### DRBFM
+**定义**：Design Review based on failure mode, 基于失效模式的设计评审。
+
+### E车
+**定义**：法规认证车。
+
+### ECI
+**定义**：Engineering change instruction，设计变更切替指示书。
+
+### ECR
+**定义**：Engineering change request，设计变更检讨依赖书。
+
+### HVPT
+**定义**：High volume production trial，大量生产试制。
+
+### L/O
+**定义**：Line off，下线（量产）。
+
+### LVPT
+**定义**：Low volume production trial，少量生产试制。
+
+### PESS
+**定义**：Parts Evaluation Status Sheet，部品评价计划。
+
+### PFS
+**定义**：问题跟进表。
+
+### PIS
+**定义**：Parts Inspection Standard，部品检查法。
+
+### PPP
+**定义**：Production Preparation Plan，生产准备计划书。
+
+### Pre CV
+**定义**：为达成CV目标做准备的阶段。
+
+### QAS
+**定义**：Quality Assurance Sheet，品质保证计划。
+
+### RDDP
+**定义**：Request for Design & Development of parts，外注品设计申请书，简称"外设申"。
+
+### SDS
+**定义**：Sample Data Sheet，样品数据表。
+
+### SE
+**定义**：Simultaneous Engineering，同步工程，为了先行检讨，在构造计划图与试做图之间作成的图纸。
+
+### SCS
+**定义**：Supplier Chain Sheet，部品供应链表。
+
+### SQAM
+**定义**：Supplier Quality Assurance Manual，供应商品质保证要领手册。
+
+### SPTT
+**定义**：Supplier Parts tracking team，供应商部品追踪小组。
+
+### TIS
+**定义**：Technical instruction sheet，技术指示书。
+
+### TPR
+**定义**：Tooling Plan Report，模具进展报告。
+
+### TS
+**定义**：Toyota Engineering Standards，丰田标准。
+
+### VA
+**定义**：Value Analysis，产品量产后提出的降本提案。
+
+### VE
+**定义**：Value Engineering，产品设计时提出的降本提案。
 
 ### 安灯系统（Andon）
 **定义**：可视化的异常警报系统，操作员可以在发现问题时立即停止生产线。
 
-### 看板（Kanban）
-**定义**：拉动式生产的可视化工具，用于控制生产流程和物料流动。
+### 本工程
+**定义**：Off process，正规工程。
 
-### 改善（Kaizen）
-**定义**：持续改进的过程，强调小步快跑、全员参与的渐进式改进。
+### 本型
+**定义**：Off tool，正规模具。
 
-### 准时化生产（JIT）
-**定义**：Just-In-Time，只在需要的时候，按需要的量，生产所需的产品，旨在消除库存浪费。
+### 初品
+**定义**：初期管理期间生产的所有部品。
+
+### 初物
+**定义**：4M 发生变化之后生产的部品，比如换班、模具·刀具交换、设备·机械修理调整之后的产品。
 
 ### 缺陷图像库（Defect Image Library）
 **定义**：收集和分类各种产品缺陷的标准化截图，用于质量培训、缺陷识别和问题分析。
+
+### 改善（Kaizen）
+**定义**：持续改进的过程，强调小步快跑、全员参与的渐进式改进。
 
 ### 数字化质量记录（Digital Quality Records）
 **定义**：使用截图、照片等数字形式记录产品质量状态的标准化方法，便于追溯和分析。
 
 ### 防错（Poka-Yoke）
 **定义**：防止错误发生的装置或方法，确保作业者即使想犯错也无法实现。
+
+### 荷姿
+**定义**：包装式样。
+
+### 号口
+**定义**：量产以后。
+
+### 号试
+**定义**：从1A到量产之间。
 
 ### 图像化变更管理（Visual Change Management）
 **定义**：丰田使用截图记录和管理生产变更的方法，确保变更过程的可视化和可追溯性。
@@ -57,6 +171,18 @@
 ### 图像化问题追踪（Visual Problem Tracking）
 **定义**：丰田使用截图记录和追踪质量问题的方法，从发现到解决的全过程可视化。
 
+### 看板（Kanban）
+**定义**：拉动式生产的可视化工具，用于控制生产流程和物料流动。
+
+### 准时化生产（JIT）
+**定义**：Just-In-Time，只在需要的时候，按需要的量，生产所需的产品，旨在消除库存浪费。
+
+### 量确/量W/量A
+**定义**：量产试作，P、W、A分别代表冲压、焊装、组装。
+
+### 品确
+**定义**：量产前最终品质确认。
+
 ### 远程视觉审核（Remote Visual Audit）
 **定义**：丰田通过截图和视频进行远程质量审核的技术，用于跨地区工厂的质量一致性管理。
 
@@ -65,9 +191,6 @@
 
 ### 标准作业（Standardized Work）
 **定义**：将最佳实践固化为标准的工作方法，包括节拍时间、作业顺序和标准在制品数量。
-
-### 自働化（Jidoka）
-**定义**：赋予机器以人的智能，当出现异常时能够自动停止，防止不良品流入下一工序。
 
 ### 视觉管理板（Visual Management Board）
 **定义**：丰田工厂中使用图像和截图进行现场管理的可视化工具，用于展示生产状态、质量指标和问题跟踪。
@@ -80,6 +203,9 @@
 
 ### 丰田生产方式（TPS）
 **定义**：丰田生产方式是丰田汽车公司开发的一套生产管理系统，强调消除浪费、持续改善和尊重人性。TPS是精益生产的基础。
+
+### 自働化（Jidoka）
+**定义**：赋予机器以人的智能，当出现异常时能够自动停止，防止不良品流入下一工序。
 
 ### 价值流图（Value Stream Mapping）
 **定义**：分析和优化从原材料到成品的整个生产流程的工具。
