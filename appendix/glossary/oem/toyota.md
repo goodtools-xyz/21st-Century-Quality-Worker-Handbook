@@ -16,6 +16,20 @@
 
 所有工厂均严格执行丰田生产方式（TPS），确保全球一致的质量标准和生产效率。
 
+### 丰田公司缩写术语表
+
+| 缩写 | 全拼 | 中文 | 备注 |
+|------|------|------|------|
+| TMC | Toyota Motor Corporation | 丰田汽车公司 | 丰田汽车公司（日文汉字转简体：トヨタ自動車株式会社，英文：Toyota Motor Corporation），是一家同时在东京证券所（TYO）、名古屋证券所（NAG）、纽约证券所（NYSE）和伦敦证券所（LSE）上市的日本跨国汽车制造商。总部位于日本爱知县丰田市和东京都文京区。 |
+| GTMC | GAC Toyota Motor Corporation | 广州广汽丰田 | 凯美瑞Camry、雅力士YARiS、汉兰达Highlander，威驰VIOS、花冠COROLLA EX、皇冠CROWN、锐志REIZ、卡罗拉COROLLA以及RAV4等系列产品。 |
+| TFTM | Tianjin Faw（First Auto Works）Toyota Motor | 天津一汽丰田 | |
+| SFTM | Sichuan Faw（First Auto Works）Toyota Motor | 四川一汽丰田，分成都工厂和长春工厂 | 考斯特COASTER、陆地巡洋舰LANDCRUISER系列和普拉多PRAD越野车。 |
+| TMEC | Toyota Motor Engineering & Manufacturing（China） | 丰田汽车研发中心 | TMEC成立于2010年11月，总部位于江苏省苏州市下辖的常熟市高新技术产业开发区，并在北京和上海设有分公司。 |
+| TTCC | Toyota Motor Technical Center | 丰田汽车技术中心 | 成立于2012年11月28日，位于天津经济技术开发区西区。 |
+| TMCI | Toyota Motor（China）Investment | 丰田投资中国有限公司 | |
+| FTMS | Faw Toyota Motor Sales | 一汽丰田销售有限公司 | 一汽丰田汽车销售有限公司成立于2003年09月25日，注册地位于北京市海淀区马甸冠城园冠海大厦七层。 |
+| FTRD | Faw Toyota Research & Development | 一汽丰田技术开发有限公司 | 一汽丰田技术开发有限公司于2012年11月28日成立，位于天津开发区西区新业二街77号。 |
+
 ## 核心术语定义
 
 ### 1W/1A
@@ -210,6 +224,61 @@
 ### 价值流图（Value Stream Mapping）
 **定义**：分析和优化从原材料到成品的整个生产流程的工具。
 
+## 丰田核心术语表（生产流程与品质管理）
+
+| 术语 | 英文 | 中文解释 | 适用阶段 | 相关文件/工具 |
+|------|------|----------|----------|---------------|
+| 1W/1A | 1st Welding/Assembly | 第一次试生产，W、A分别针对焊装与总装部品 | 试作阶段 | PFS、QAS |
+| 2W/2A | 2nd Welding/Assembly | 第二次试生产，W、A分别针对焊装与总装部品 | 试作阶段 | PFS、QAS |
+| CV | Conformation Vehicle | 整车设计验证 | 设计验证阶段 | CV评审报告 |
+| Pre CV | Pre Conformation Vehicle | 为达成CV目标做准备的阶段 | 设计验证前 | 准备确认表 |
+| E车 | Engineering Vehicle | 法规认证车 | 认证阶段 | 法规认证文件 |
+| D车 | Durability Vehicle | 耐久实验车 | 耐久测试阶段 | 耐久测试计划 |
+| L/O | Line Off | 下线（量产） | 量产启动 | 量产启动报告 |
+| 本型 | Off Tool | 正规模具 | 量产准备 | 模具验收报告 |
+| 本工程 | Off Process | 正规工程 | 量产准备 | 工程验收报告 |
+| 号试 | 号试 | 从1A到量产之间 | 量产前 | 号试管理计划 |
+| 号口 | 号口 | 量产以后 | 量产阶段 | 量产管理计划 |
+| 初物 | 初物 | 4M发生变化后生产的部品 | 变更管理 | 初物检查表 |
+| 初品 | 初品 | 初期管理期间生产的所有部品 | 量产初期 | 初期管理计划 |
+| 量确/量W/量A | Mass Confirmation/Mass Welding/Mass Assembly | 量产试作，P、W、A分别代表冲压、焊装、组装 | 量产前 | 量产试作计划 |
+| 品确 | Quality Confirmation | 量产前最终品质确认 | 量产前 | 品确报告 |
+
+## 丰田核心术语表（设计与工程管理）
+
+| 术语 | 英文 | 中文解释 | 适用阶段 | 相关文件/工具 |
+|------|------|----------|----------|---------------|
+| DR | Design Review | 设计评审 | 设计阶段 | DR会议记录 |
+| DRBFM | Design Review Based on Failure Mode | 基于失效模式的设计评审 | 设计阶段 | DRBFM工作表 |
+| ECR | Engineering Change Request | 设计变更检讨依赖书 | 变更管理 | ECR申请书 |
+| ECI | Engineering Change Instruction | 设计变更切替指示书 | 变更管理 | ECI通知 |
+| SE | Simultaneous Engineering | 同步工程 | 设计阶段 | SE会议记录 |
+| RDDP | Request for Design & Development of Parts | 外注品设计申请书，简称"外设申" | 供应商管理 | RDDP申请表 |
+| TS | Toyota Engineering Standards | 丰田标准 | 全流程 | 标准手册 |
+| VE | Value Engineering | 产品设计时提出的降本提案 | 设计阶段 | VE提案书 |
+| VA | Value Analysis | 产品量产后提出的降本提案 | 量产阶段 | VA提案书 |
+| AS | Advanced Sample | 整车电子平台验证 | 电子系统验证 | AS验证报告 |
+| C/F | Check Fixture | 检具 | 测量与检验 | 检具验收报告 |
+| CF | Check Fixture Evaluation | 在检具上进行部品评价，分CF1/CF2/CF3等 | 评价阶段 | CF评价报告 |
+
+## 丰田部门术语表
+
+| 部门/术语 | 英文名称 | 中文解释 | 主要职责 | 相关联系部门 |
+|-----------|----------|----------|----------|---------------|
+| PFS | Problem Follow Sheet | 问题跟进表 | 跟踪并管理质量问题的解决过程 | 供应商质量部、生产部 |
+| QAS | Quality Assurance Sheet | 品质保证计划 | 制定和实施质量保证措施 | 质量部、生产部 |
+| PESS | Parts Evaluation Status Sheet | 部品评价计划 | 管理零部件评价过程 | 工程部、质量部 |
+| PIS | Parts Inspection Standard | 部品检查法 | 定义零部件检验标准和方法 | 质量部、检测中心 |
+| PPP | Production Preparation Plan | 生产准备计划书 | 规划和协调生产准备活动 | 生产部、工程部 |
+| SCS | Supplier Chain Sheet | 部品供应链表 | 管理零部件供应链信息 | 采购部、供应商管理部 |
+| SQAM | Supplier Quality Assurance Manual | 供应商品质保证要领手册 | 指导供应商质量管理 | 供应商质量管理部 |
+| SPTT | Supplier Parts Tracking Team | 供应商部品追踪小组 | 监督供应商零部件开发进度 | 采购部、质量部、工程部 |
+| TIS | Technical Instruction Sheet | 技术指示书 | 提供生产和质量技术指导 | 工程部、生产技术部 |
+| TPR | Tooling Plan Report | 模具进展报告 | 跟踪模具开发和生产进度 | 工程部、模具管理部 |
+| SDS | Sample Data Sheet | 样品数据表 | 记录样品测试和评价数据 | 质量部、研发部 |
+| HVPT | High Volume Production Trial | 大量生产试制 | 验证量产能力和质量稳定性 | 生产部、质量部 |
+| LVPT | Low Volume Production Trial | 少量生产试制 | 初步验证生产工艺和质量 | 生产部、研发部 |
+
 ## 质量管理特殊要求
 
 ### 新车质量调查（IQS）
@@ -226,4 +295,7 @@
 - [丰田供应商标准（Toyota Supplier Standards）](https://www.toyota-global.com/)
 - [丰田质量手册（Toyota Quality Manual）](https://www.toyota-global.com/)
 - [丰田问题解决8步法（Toyota 8-Step Problem Solving）](https://www.toyota-global.com/)
+
+
+
 
