@@ -1,3 +1,4 @@
+来源：https://www.vda-qmc-learning.de/module/glossary/index.php
 一、A 字母术语（已完整验证）
 A-, B-, C-, D-Muster（A、B、C、D 样本）
 A-Risiko-Teile（A 类风险零件）
