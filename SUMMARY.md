@@ -11,7 +11,7 @@
   * [VDA 6.1/6.3/6.5标准](quality-management-system/vda-standards.md)
   * [体系文件与记录管理](quality-management-system/documentation.md)
 
-* [产品开发质量](product-development/README.md)
+* [产品和过程开发质量](product-and-process-development/README.md)
   * [APQP/PPAP产品质量先期策划](product-development/apqp-ppap.md)
   * [FMEA失效模式与影响分析](product-development/fmea.md)
   * [设计评审与验证](product-development/design-review.md)
@@ -20,13 +20,12 @@
     * [公差计算方法](product-development/tolerance-calculation.md)
   * [电子质量](product-development/electronic-quality.md)
   * [软件质量](product-development/software-quality.md)
-
-* [过程质量控制](process-quality/README.md)
-  * [过程流程图与过程矩阵](process-quality/process-flow.md)
-  * [控制计划](process-quality/control-plan.md)
-  * [统计过程控制(SPC)](process-quality/spc.md)
-  * [测量系统分析(MSA)](process-quality/msa.md)
-  * [作业指导书管理](process-quality/work-instructions.md)
+  * [过程质量控制](product-and-process-development/process-quality/README.md)
+    * [过程流程图与过程矩阵](product-and-process-development/process-quality/process-flow.md)
+    * [控制计划](product-and-process-development/process-quality/control-plan.md)
+    * [统计过程控制(SPC)](product-and-process-development/process-quality/spc.md)
+    * [测量系统分析(MSA)](product-and-process-development/process-quality/msa.md)
+    * [作业指导书管理](product-and-process-development/process-quality/work-instructions.md)
 
 * [供应商质量管理](supplier-quality/README.md)
   * [供应商选择与评估](supplier-quality/selection-assessment.md)
