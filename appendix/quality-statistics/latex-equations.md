@@ -1,4 +1,10 @@
-https://www.processon.com/latex-symbol
+# LaTeX 数学公式参考
+
+## 参考来源
+
+- [ProcessOn LaTeX 符号参考](https://www.processon.com/latex-symbol)
+- [KaTeX 支持的 LaTeX 命令](https://katex.org/docs/supported)
+https://www.mathjax.org/
 
 
 ### 一、函数、符号及特殊字符
