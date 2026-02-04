@@ -68,6 +68,7 @@
     * [OEM厂商术语](appendix/glossary/oem/README.md)
       * [本田术语表](appendix/glossary/oem/honda.md)
   * [质量表单模板](appendix/templates.md)
+  * [质量统计学](appendix/quality-statistics/README.md)
   * [参考标准与法规](appendix/standards.md)
   * [资源推荐](appendix/resources/README.md)
     * [国际标准机构网址](appendix/resources/international-standards.md)

@@ -2,9 +2,24 @@
 
 ## 参考来源
 
-- [ProcessOn LaTeX 符号参考](https://www.processon.com/latex-symbol)
 - [KaTeX 支持的 LaTeX 命令](https://katex.org/docs/supported)
-https://www.mathjax.org/
+- [MathJax 支持的 LaTeX 命令](https://www.mathjax.org/)
+- [ProcessOn LaTeX 符号参考](https://www.processon.com/latex-symbol)
+- [Comprehensive LaTeX Symbol List](https://ctan.org/pkg/comprehensive)
+- [FQA](https://www.doubao.com/thread/w734542b3a9bbc52a)
+
+前端库对比总结（清晰区分定位）
+| 工具类型                | 权威度       | 核心场景                  | 备注                          |
+|-------------------------|--------------|---------------------------|-------------------------------|
+| MathJax（前端 JS 库）| 网页端最高   | 学术论文、科研平台、专业数学网页 | 前端领域无可替代的学术级权威  |
+| KaTeX（前端 JS 库）| 轻量场景优质 | 技术博客、静态文档、实时编辑工具 | 速度快，但功能和权威性不如 MathJax |
+| LaTeX 原生体系（桌面环境）| 全场景最高   | 学术出版、论文撰写、书籍排版    | 数学排版的终极标准，非前端库  |
+
+入门基础：《Short Math Guide for LaTeX》（快速了解基础符号）；
+核心权威：《The LaTeX Companion》第 8 章（全面掌握数学符号规范）；
+精准专项：amsmath/amssymb 官方文档（对应核心宏包符号的详细定义）；
+终极大全：《Comprehensive LaTeX Symbol List》（查询所有数学符号，无可替代）；
+便捷技巧：本地用 texdoc 命令快速打开，在线用 CTAN 或 TeXdoc Online 查阅。
 
 
 ### 一、函数、符号及特殊字符
