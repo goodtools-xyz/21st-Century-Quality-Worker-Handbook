@@ -11,7 +11,6 @@
   * [质量审核与认证术语](glossary/audit-certification.md)
   * [质量成本与风险管理术语](glossary/cost-risk.md)
 
-* [质量表单模板](templates.md)
 * [参考标准与法规](standards.md)
 
 * [资源推荐](resources/README.md)

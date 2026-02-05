@@ -222,6 +222,7 @@ MSA分析计划的编制是根据MSA样品、仪器统计表确保测量系统�
 
 ### 10.1
 MSA手册第4版
+- [ISO/TC 69/SC 6 测量方法和结果](https://www.iso.org/committee/49808.html)
 ### 10.2
 VDA 5 第3版
 ## 11. 附录

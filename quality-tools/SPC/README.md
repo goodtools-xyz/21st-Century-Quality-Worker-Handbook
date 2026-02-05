@@ -8,6 +8,7 @@
 
 - AIAG SPC手册（第2版）
 - ISO 16269-4-2010：数据统计分析 - 第4部分：检测离群值的方法
+- [ISO/TC 69/SC 4 产品和过程统计应用](https://www.iso.org/committee/49774.html)
 
 ## 主要内容
 

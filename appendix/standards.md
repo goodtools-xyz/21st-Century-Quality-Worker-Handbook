@@ -6,6 +6,7 @@
 
 * [ISO 9000标准族](standards/iso9000.md) - 质量管理体系系列标准
 * [A-SPICE标准族](standards/as-spice.md) - 汽车行业软件过程改进与能力测定标准
+* [统计应用标准](https://www.iso.org/committee/49742.html) - ISO/TC 69统计方法应用标准
 
 ## 行业协会手册
 
